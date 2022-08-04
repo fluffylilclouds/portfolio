@@ -1,0 +1,40 @@
+body{
+    background-color: #FFF0F5;
+    padding-top: 40px;
+}
+
+h2 {
+    padding-top: 50px;
+    font-size: 24px;
+    color: #4B0082;
+    font-family: 'HelveticaNeue-Light';
+}
+a {
+    color: rgb(43, 43, 43);
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding:0;
+    margin:0;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background-color: #ADD8E6;
+}
+li{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;;
+}
+
+.profilepicture{
+    border-radius: 50%;
+}
+
+main{
+    text-align: center;
+}
