@@ -1,5 +1,5 @@
 body{
-    background-color: #FFF0F5;
+    background-color: #FFFFFF;
     padding-top: 40px;
 }
 
@@ -22,7 +22,7 @@ ul{
     top:0;
     left:0;
     width:100%;
-    background-color: #ADD8E6;
+    background-color: #FFF0F5;
 }
 li{
     padding-right: 20px;
@@ -41,4 +41,17 @@ main{
 
 .flex{
     display: flex;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.p-3{
+    padding: 20px;
+}
+
+.wu-100{
+    width: 100%;
+    background-color: pink;
 }
